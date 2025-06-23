@@ -27,7 +27,7 @@ Ce projet permet d’enregistrer, afficher, modifier, supprimer et exporter des 
 
 ## 🎥 Un petit enregistrement à visualiser pour en savoir plus
 
- > Cliquez  <a href="https://github.com/winnerdev15/Mini CRM-Gestion de clients (enre).mp4" target="_blank"> <br>Ici</a>
+ > Cliquez sur Mini CRM - Gestion de clients (enre).mp4 pour la visualisation
 
 ---
 
